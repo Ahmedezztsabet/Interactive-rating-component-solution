@@ -30,8 +30,8 @@ Users should be able to:
 ![](design/desktop-design.jpg)
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Ahmedezztsabet/Interactive-rating-component-solution)
+- Live Site URL: [Add live site URL here](https://ahmedezztsabet.github.io/Interactive-rating-component-solution/)
 
 ### Built with
 
