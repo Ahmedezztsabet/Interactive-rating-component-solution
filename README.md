@@ -27,11 +27,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](design/desktop-design.jpg)
+![ScreenShot](design/desktop-design.jpg)
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Ahmedezztsabet/Interactive-rating-component-solution)
-- Live Site URL: [Add live site URL here](https://ahmedezztsabet.github.io/Interactive-rating-component-solution/)
+- Solution URL: [solution URL here](https://github.com/Ahmedezztsabet/Interactive-rating-component-solution)
+- Live Site URL: [live site URL here](https://ahmedezztsabet.github.io/Interactive-rating-component-solution/)
 
 ### Built with
 
